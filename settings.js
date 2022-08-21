@@ -38,7 +38,7 @@ global.location = "India, Mizoram, Aizawl" // location
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
-global.dragonchat = "true"  // chat bot  "true" / "true" (200 auto replies in this)
+global.dragonchat = "false"  // chat bot  "true" / "true" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
 global.antibad = "true" // To remove bad word senders
 global.antilink = "true" // To remove group link sharing peoples
@@ -47,7 +47,7 @@ global.upsongvoice = "true" // bot can upload song as voice note (it use your da
 global.owner = ['+94702287970']
 global.ownertag = '+94702287970' //your tag number
 global.botname = '𝙍𝙀𝘿╺ RUKKA - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
+global.packname = "KING RUKKA Sticker" // sticker packname
 global.author = "𝙍𝙀𝘿╺ RUKKA" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-RUKKA-ᴍᴅ ]' //
