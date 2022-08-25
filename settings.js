@@ -41,7 +41,7 @@ global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive pictur
 global.dragonchat = "false"  // chat bot  "true" / "true" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
 global.antibad = "true" // To remove bad word senders
-global.antilink = "true" // To remove group link sharing peoples
+global.antilink = "false" // To remove group link sharing peoples
 global.upsongvoice = "true" // bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 
 global.owner = ['+94702287970']
@@ -294,7 +294,7 @@ global.rep = { // All Replies = 145
     K131: '😂😂🙏',
     K132: '😂🤭',
     K133: '😁',
-    K134: '😏☝️',
+    K134: '😏☝️'
     K135: 'අඬන්න එපා ඉතිං😒😝',
     K136: '🥴පිත්තු',
     K137: '🙂',
